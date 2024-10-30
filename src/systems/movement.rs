@@ -29,6 +29,10 @@ impl<'a> System<'a> for MovementSystem {
             // 子弹直接使用 velocity,不需要乘以 speed
             pos.x += movable.velocity.x * self.delta_time;
             pos.y += movable.velocity.y * self.delta_time;
+
+            // 保持在屏幕范围内
+            pos.x = pos.x.clamp(0.0, 800.0);
+            pos.y = pos.y.clamp(0.0, 600.0);
         }
     }
 }
