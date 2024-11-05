@@ -87,11 +87,10 @@ impl Actor {
                 self.direction = self.handle_input(keys);
             }
             ActorType::Enemy => {
-                self.handle_enemy_movement();
+                // self.handle_enemy_movement();
             }
             ActorType::Bullet(_) => {
                 // 子弹保持其方向不变，继续移动
-                // direction 在生成时已经设置
             }
         }
 
@@ -99,8 +98,10 @@ impl Actor {
     }
 
     // 处理敌人移动逻辑
-    fn handle_enemy_movement(&mut self) {
-        // 这里可以实现敌人的 AI 移动逻辑
-        // 比如追踪玩家、巡逻等
+    fn handle_enemy_movement(&mut self, target_pos: Option<Vec2>) {
+        if let Some(target_pos) = target_pos {
+            // 计算朝向目标的方向向量
+            self.direction = (target_pos - Vec2::ZERO).normalize();
+        }
     }
 }

@@ -202,3 +202,29 @@ pub fn update_health_display(
         }
     }
 }
+
+
+pub fn enemy_chase_system(
+    player_query: Query<&Transform, With<Actor>>,
+    mut enemy_query: Query<(&Transform, &mut Actor)>,
+) {
+    // 首先找到玩家
+    let player_pos = player_query
+        .iter()
+        .find(|transform| true)  // 获取第一个玩家位置
+        .map(|transform| transform.translation);
+
+    if let Some(player_pos) = player_pos {
+        // 更新每个敌人的移动方向
+        for (enemy_transform, mut enemy_actor) in enemy_query.iter_mut() {
+            if enemy_actor.actor_type == ActorType::Enemy {
+                // 计算敌人到玩家的方向
+                let enemy_pos = enemy_transform.translation;
+                let direction = (player_pos - enemy_pos).normalize();
+                
+                // 更新敌人的移动方向
+                enemy_actor.direction = Vec2::new(direction.x, direction.y);
+            }
+        }
+    }
+}
