@@ -1,0 +1,11 @@
+/Users/mbear/bearspace/diablo-5/target/debug/deps/libbytecount-93d3024ea558fd42.rmeta: /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/lib.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/naive.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/integer_simd.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/mod.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/aarch64.rs
+
+/Users/mbear/bearspace/diablo-5/target/debug/deps/libbytecount-93d3024ea558fd42.rlib: /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/lib.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/naive.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/integer_simd.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/mod.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/aarch64.rs
+
+/Users/mbear/bearspace/diablo-5/target/debug/deps/bytecount-93d3024ea558fd42.d: /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/lib.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/naive.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/integer_simd.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/mod.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/aarch64.rs
+
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/lib.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/naive.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/integer_simd.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/mod.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bytecount-0.6.8/src/simd/aarch64.rs:

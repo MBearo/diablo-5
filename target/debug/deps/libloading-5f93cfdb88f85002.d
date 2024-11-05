@@ -1,0 +1,12 @@
+/Users/mbear/bearspace/diablo-5/target/debug/deps/liblibloading-5f93cfdb88f85002.rmeta: /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/lib.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/changelog.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/os/mod.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/os/unix/mod.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/os/unix/consts.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/util.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/error.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/safe.rs
+
+/Users/mbear/bearspace/diablo-5/target/debug/deps/libloading-5f93cfdb88f85002.d: /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/lib.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/changelog.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/os/mod.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/os/unix/mod.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/os/unix/consts.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/util.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/error.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/safe.rs
+
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/lib.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/changelog.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/os/mod.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/os/unix/mod.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/os/unix/consts.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/util.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/error.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.7.4/src/safe.rs:

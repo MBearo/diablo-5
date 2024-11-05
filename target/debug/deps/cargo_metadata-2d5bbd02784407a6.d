@@ -1,0 +1,11 @@
+/Users/mbear/bearspace/diablo-5/target/debug/deps/libcargo_metadata-2d5bbd02784407a6.rmeta: /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/lib.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/dependency.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/diagnostic.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/errors.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/messages.rs
+
+/Users/mbear/bearspace/diablo-5/target/debug/deps/libcargo_metadata-2d5bbd02784407a6.rlib: /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/lib.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/dependency.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/diagnostic.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/errors.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/messages.rs
+
+/Users/mbear/bearspace/diablo-5/target/debug/deps/cargo_metadata-2d5bbd02784407a6.d: /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/lib.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/dependency.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/diagnostic.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/errors.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/messages.rs
+
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/lib.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/dependency.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/diagnostic.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/errors.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.14.2/src/messages.rs:

@@ -1,0 +1,13 @@
+/Users/mbear/bearspace/diablo-5/target/debug/deps/libtoml-29676c47cf540ddd.rmeta: /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/lib.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/map.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/value.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/datetime.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/ser.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/de.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/tokens.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/macros.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/spanned.rs
+
+/Users/mbear/bearspace/diablo-5/target/debug/deps/toml-29676c47cf540ddd.d: /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/lib.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/map.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/value.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/datetime.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/ser.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/de.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/tokens.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/macros.rs /Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/spanned.rs
+
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/lib.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/map.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/value.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/datetime.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/ser.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/de.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/tokens.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/macros.rs:
+/Users/mbear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.5.11/src/spanned.rs:
